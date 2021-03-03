@@ -30,13 +30,13 @@ const LoginForm = () => {
     return (
         <div className="wrapper">
             <div className="form">
-                <h1 className="title" style={{"fontFamily":"Mogra", "color":"purple"}}>Chat Application</h1>
+                <h1 className="title" style={{"fontFamily":"Mogra", "color":"purple"}}>Login here <i class="fas fa-grin-beam"></i></h1>
                 <form onSubmit={ handleSubmit }>
                     <input type="text" value={username} onChange={(e) => setUsername(e.target.value)} className="input" placeholder="Username" required />
                     <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="input" placeholder="Password" required />
                     <div align="center">
                         <button type="submit" className="button title">
-                            <p style={{"fontFamily":"Mogra", "color":"purple"}}>Start Chatting</p>
+                            <p style={{"fontFamily":"Mogra", "color":"purple"}}>Chat away! ... <i class="fas fa-paper-plane"></i></p>
                         </button>
                     </div>
                     <div align="center" style={{marginTop: "2em", color: "red"}}>
