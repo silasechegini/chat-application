@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pet-appointment-scheduler/static/css/main.32780961.chunk.css",
-    "main.js": "/pet-appointment-scheduler/static/js/main.dee3435c.chunk.js",
-    "main.js.map": "/pet-appointment-scheduler/static/js/main.dee3435c.chunk.js.map",
-    "runtime-main.js": "/pet-appointment-scheduler/static/js/runtime-main.83542eba.js",
-    "runtime-main.js.map": "/pet-appointment-scheduler/static/js/runtime-main.83542eba.js.map",
-    "static/js/2.5ddd4870.chunk.js": "/pet-appointment-scheduler/static/js/2.5ddd4870.chunk.js",
-    "static/js/2.5ddd4870.chunk.js.map": "/pet-appointment-scheduler/static/js/2.5ddd4870.chunk.js.map",
-    "index.html": "/pet-appointment-scheduler/index.html",
-    "static/css/main.32780961.chunk.css.map": "/pet-appointment-scheduler/static/css/main.32780961.chunk.css.map",
-    "static/js/2.5ddd4870.chunk.js.LICENSE.txt": "/pet-appointment-scheduler/static/js/2.5ddd4870.chunk.js.LICENSE.txt"
+    "main.css": "/chat-application/static/css/main.32780961.chunk.css",
+    "main.js": "/chat-application/static/js/main.dee3435c.chunk.js",
+    "main.js.map": "/chat-application/static/js/main.dee3435c.chunk.js.map",
+    "runtime-main.js": "/chat-application/static/js/runtime-main.08e71887.js",
+    "runtime-main.js.map": "/chat-application/static/js/runtime-main.08e71887.js.map",
+    "static/js/2.5ddd4870.chunk.js": "/chat-application/static/js/2.5ddd4870.chunk.js",
+    "static/js/2.5ddd4870.chunk.js.map": "/chat-application/static/js/2.5ddd4870.chunk.js.map",
+    "index.html": "/chat-application/index.html",
+    "static/css/main.32780961.chunk.css.map": "/chat-application/static/css/main.32780961.chunk.css.map",
+    "static/js/2.5ddd4870.chunk.js.LICENSE.txt": "/chat-application/static/js/2.5ddd4870.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83542eba.js",
+    "static/js/runtime-main.08e71887.js",
     "static/js/2.5ddd4870.chunk.js",
     "static/css/main.32780961.chunk.css",
     "static/js/main.dee3435c.chunk.js"
