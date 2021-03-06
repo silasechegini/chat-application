@@ -53,8 +53,7 @@ const ChatFeed = (props) => {
 
     const handleStatus = (event) => {
         let user = props.userName;
-        console.log(`${user} is typing ...`);
-        setStatus(`${user} is typing ...`);
+        // setStatus(`${user} is typing ...`);
     }
 
     const handleKeyUp = (event) => {
